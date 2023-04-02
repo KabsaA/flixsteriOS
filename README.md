@@ -5,6 +5,7 @@ Flister is an app that allows users to browse movies from the [The Movie Databas
 ---
 
 
+
 <p align="center">  Demo<br>
    <img src="flixster.gif" width=250><br>
  </p>
