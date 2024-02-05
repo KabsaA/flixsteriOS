@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  flixster
 //
-//  Created by Kabsa Abdi on 9/16/22.
+//  Created by Kabsa Abdi on 9/16.
 //
 
 import UIKit
