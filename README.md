@@ -5,8 +5,6 @@ The Flister App allows users to browse movies from the [The Movie Database API](
 ---
 
 
-
-
 <p align="center">  Demo<br>
    <img src="flixster.gif" width=250><br>
  </p>
